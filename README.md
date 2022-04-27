@@ -6,7 +6,7 @@
 
 ### Dataset:
 * It contains 20 features (gender, senior citizens,tenure,...)
-* Target variable is binary classification (churn/not)
+* Target variable is binary categorical variable (churn/not)
 
 ### Data Preprocessing:
 * EDA on the dataset
