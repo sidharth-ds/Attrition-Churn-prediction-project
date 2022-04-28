@@ -11,7 +11,7 @@
 ### Data Preprocessing:
 * EDA on the dataset
 * Data Cleaning
-* Encodings, dropping unnecessary features
+* Encodings, dropping unnecessary features.
 
 ### Modelling using Logistic Regression & XGBoost:
 * Logistic Regression performs better than XGBoost
